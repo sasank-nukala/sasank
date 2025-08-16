@@ -1,5 +1,3 @@
-sasank/Readme.md
-
 # 👋 Welcome to My GitHub!
 
 Hi there! I'm **SASANK**, a methodical, autonomy-driven builder passionate about modular AI pipelines, reproducible workflows, and explicit control in system design. I specialize in backend engineering, computer vision, and agent-based automation — always avoiding hidden magic and favoring transparent, CLI-friendly solutions.
