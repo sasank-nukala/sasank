@@ -16,26 +16,13 @@ Hi there! I'm **SASANK**, a methodical, autonomy-driven builder passionate about
 
 ## 🧠 Certifications
 
-- **Meta Backend Developer Professional Certificate** – Coursera, Aug 2025  
-  *Developed scalable backend systems using Python, APIs, and database integration.*
-
-- **Python for Computer Vision with OpenCV and Deep Learning** – Udemy, May 2025  
-  *Built image recognition pipelines using OpenCV and trained CNNs for object detection.*
-
-- **Deep Learning Specialization** *(deeplearning.ai)* – Coursera, Oct 2024  
-  *Mastered neural networks, CNNs, and sequence models across a 5-course deep learning track.*
-
-- **Google Data Analytics Professional Certificate** – Coursera, Aug 2023  
-  *Executed end-to-end data analysis using SQL, spreadsheets, and visualization tools.*
-
----
-
-## 🧠 Certifications
-
 - [Meta Backend Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) – Coursera, Aug 2025  
 - [Python for Computer Vision with OpenCV and Deep Learning](ude.my/UC-63d12f8a-2f84-4e7d-9b6a-04f25191fc0e) – Udemy, May 2025  
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EXTTCNXPGS8D) – Coursera, Oct 2024
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7GYYFT92429P) – Coursera, Feb 2024
+
+
+---
 
 
 ## 🛠️ Projects
