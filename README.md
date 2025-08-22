@@ -27,7 +27,7 @@ Hi there! I'm **SASANK**, a methodical, autonomy-driven builder passionate about
 
 ## 🛠️ Projects
 
-### 🎾 ServeSight – AI-Powered Tennis Match Analysis  
+### 🎾 ServeSight – AI Powered Tennis Match Analysis  
 - Utilized AI to classify player poses and analyze match footage for performance insights.  
 - Built a modular OpenCV pipeline for tennis ball detection, trajectory estimation, and bounce classification with Kalman filtering.  
 - Engineered a dataset-agnostic CLI workflow with configurable parameters for reproducible, automation-free execution.
