@@ -17,7 +17,7 @@ Hi there! I'm **SASANK**, a methodical, autonomy-driven builder passionate about
 ## 🧠 Certifications
 
 - [Meta Backend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/O5B8I7A6PRZY) – Coursera, Aug 2025  
-- [Python for Computer Vision with OpenCV and Deep Learning](ude.my/UC-63d12f8a-2f84-4e7d-9b6a-04f25191fc0e) – Udemy, May 2025  
+- [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/certificate/UC-63d12f8a-2f84-4e7d-9b6a-04f25191fc0e/) – Udemy, May 2025  
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EXTTCNXPGS8D) – Coursera, Oct 2024
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7GYYFT92429P) – Coursera, Feb 2024
 
